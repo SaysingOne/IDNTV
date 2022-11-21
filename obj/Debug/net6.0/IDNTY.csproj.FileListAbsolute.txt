@@ -1,0 +1,15 @@
+/Users/stanislavzabin/Documents/StudyC/IDNTY/bin/Debug/net6.0/IDNTY
+/Users/stanislavzabin/Documents/StudyC/IDNTY/bin/Debug/net6.0/IDNTY.deps.json
+/Users/stanislavzabin/Documents/StudyC/IDNTY/bin/Debug/net6.0/IDNTY.runtimeconfig.json
+/Users/stanislavzabin/Documents/StudyC/IDNTY/bin/Debug/net6.0/IDNTY.dll
+/Users/stanislavzabin/Documents/StudyC/IDNTY/bin/Debug/net6.0/IDNTY.pdb
+/Users/stanislavzabin/Documents/StudyC/IDNTY/obj/Debug/net6.0/IDNTY.csproj.AssemblyReference.cache
+/Users/stanislavzabin/Documents/StudyC/IDNTY/obj/Debug/net6.0/IDNTY.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanislavzabin/Documents/StudyC/IDNTY/obj/Debug/net6.0/IDNTY.AssemblyInfoInputs.cache
+/Users/stanislavzabin/Documents/StudyC/IDNTY/obj/Debug/net6.0/IDNTY.AssemblyInfo.cs
+/Users/stanislavzabin/Documents/StudyC/IDNTY/obj/Debug/net6.0/IDNTY.csproj.CoreCompileInputs.cache
+/Users/stanislavzabin/Documents/StudyC/IDNTY/obj/Debug/net6.0/IDNTY.dll
+/Users/stanislavzabin/Documents/StudyC/IDNTY/obj/Debug/net6.0/refint/IDNTY.dll
+/Users/stanislavzabin/Documents/StudyC/IDNTY/obj/Debug/net6.0/IDNTY.pdb
+/Users/stanislavzabin/Documents/StudyC/IDNTY/obj/Debug/net6.0/IDNTY.genruntimeconfig.cache
+/Users/stanislavzabin/Documents/StudyC/IDNTY/obj/Debug/net6.0/ref/IDNTY.dll
